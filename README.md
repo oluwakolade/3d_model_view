@@ -5,11 +5,12 @@
 
 
 ## mobile ui
-![App Preview - mobile home]()
+![App Preview - mobile home](assets/ui/ui.jpg)
 
 
 ## link to demo
-[Appetize](https://appetize.io/app/b_7vtmoss4apuhyurl2rmy2v25wu)
+[Appetize](https://appetize.io/app/b_cizp6qdx52f2wmmy4afsoolozy)
+[Videodemo](https://drive.google.com/drive/folders/1s0z8TWk32WaQ7HVpxKhmI-zKXvAU02Gq?usp=sharing)
 
 
 ## dependencies used
